@@ -1,0 +1,5 @@
+dev:
+	compiledaemon -command="./auth.exe"
+
+build:
+	go build -o auth.exe
